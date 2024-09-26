@@ -10,3 +10,4 @@ Automated tuner template pulled from lessons | coursework. 21-Neural-Networks-De
 Keras checkpoints | https://stackoverflow.com/questions/61046870/how-to-save-weights-of-keras-model-for-each-epoch
 Keras checkpoint per epoch | https://keras.io/api/callbacks/model_checkpoint/
 Karas checkpoint period argument does not work. No stable way to checkpoint every 5 epochs | https://stackoverflow.com/questions/59069058/save-model-every-10-epochs-tensorflow-keras-v2
+correlation plot | https://stackoverflow.com/questions/29432629/plot-correlation-matrix-using-pandas
