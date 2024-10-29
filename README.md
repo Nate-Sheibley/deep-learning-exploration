@@ -1,5 +1,5 @@
-# deep-learning-challenge
-UC Berkeley-Ext data analytics bootcamp Module21 HW
+# deep-learning-exploration
+Short initial exploration into deep learning and associated evaluation. 
 
 # References 
 
@@ -11,3 +11,5 @@ Keras checkpoints | https://stackoverflow.com/questions/61046870/how-to-save-wei
 Keras checkpoint per epoch | https://keras.io/api/callbacks/model_checkpoint/
 Karas checkpoint period argument does not work. No stable way to checkpoint every 5 epochs | https://stackoverflow.com/questions/59069058/save-model-every-10-epochs-tensorflow-keras-v2
 correlation plot | https://stackoverflow.com/questions/29432629/plot-correlation-matrix-using-pandas
+
+UC Berkeley-Ext data analytics bootcamp Module21 HW
